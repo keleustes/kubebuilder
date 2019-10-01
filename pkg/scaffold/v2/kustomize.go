@@ -65,7 +65,7 @@ namePrefix: {{.Prefix}}-
 #commonLabels:
 #  someName: someValue
 
-bases:
+resources:
 - ../crd
 - ../rbac
 - ../manager

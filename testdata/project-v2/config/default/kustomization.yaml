@@ -12,7 +12,7 @@ namePrefix: project-v2-
 #commonLabels:
 #  someName: someValue
 
-bases:
+resources:
 - ../crd
 - ../rbac
 - ../manager
